@@ -1,5 +1,5 @@
 def greet_user(name):
-    print(f"Hello, {name}! Welcome to Jenkins automation.")
+    print(f"Hello, {name}! Welcome to Jenkins automation Updated Version 2.")
 
 def calculate_sum(a, b):
     return a + b
